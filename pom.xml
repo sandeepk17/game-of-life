@@ -30,12 +30,12 @@
     <repository>
         <id>central</id>
         <name>Artifactory-releases</name>
-        <url>http://192.168.0.101:8081/artifactory/gameoflife-snapshot</url>
+        <url>http://192.168.0.102:8081/artifactory/gameoflife-snapshot</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>Artifactory-snapshots</name>
-        <url>http://192.168.0.101:8081/artifactory/gameoflife-snapshot</url>
+        <url>http://192.168.0.102:8081/artifactory/gameoflife-snapshot</url>
     </snapshotRepository>
     </distributionManagement>
     <build>
